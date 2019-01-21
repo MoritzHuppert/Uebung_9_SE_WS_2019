@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="3.1.10" sequence="0" timestamp="1547980183511" analysisTimestamp="1547980183699" release="">
+<BugCollection version="3.1.10" sequence="0" timestamp="1548069258612" analysisTimestamp="1548069258874" release="">
   <Project projectName="">
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\MacOSXIntegration.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\Main.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\Command.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\CommandHistory.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$2.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$3.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\Flashcard$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\Flashcard.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardObserver.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeries.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategies.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategy.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\Permutation.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$2.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$3.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$4.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\persistence\Store.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor$2.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$2.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$3.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$4.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$5.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$6.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$7.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$1.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$2.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$3.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$State.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\se\flashcards\ui\Utilities.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\st\constraints\NotNull.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\st\constraints\Null.class</Jar>
-    <Jar>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main\de\tud\cs\util\Arrays.class</Jar>
-    <AuxClasspathEntry>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\classes\java\main</AuxClasspathEntry>
-    <AuxClasspathEntry>C:\Users\morit\GitHub\se\exercises\9\flashcards\build\resources\main</AuxClasspathEntry>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\MacOSXIntegration.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\Main.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\Command.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\CommandHistory.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$2.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$3.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\Flashcard$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\Flashcard.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardObserver.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeries.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategies.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategy.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\Permutation.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$2.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$3.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$4.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\persistence\Store.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor$2.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$2.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$3.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$4.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$5.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$6.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$7.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$1.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$2.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$3.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$State.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\se\flashcards\ui\Utilities.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\st\constraints\NotNull.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\st\constraints\Null.class</Jar>
+    <Jar>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main\de\tud\cs\util\Arrays.class</Jar>
+    <AuxClasspathEntry>C:\Users\morit\GitHub\se_uebung9\build\classes\java\main</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\morit\GitHub\se_uebung9\build\resources\main</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\morit\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\23.0\c947004bb13d18182be60077ade044099e4f26f1\guava-23.0.jar</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\morit\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\morit\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.0.18\5f65affce1684999e2f4024983835efc3504012e\error_prone_annotations-2.0.18.jar</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\morit\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.1\976d8d30bebc251db406f2bdb3eb01962b5685b3\j2objc-annotations-1.1.jar</AuxClasspathEntry>
     <AuxClasspathEntry>C:\Users\morit\.gradle\caches\modules-2\files-2.1\org.codehaus.mojo\animal-sniffer-annotations\1.14\775b7e22fb10026eed3f86e8dc556dfafe35f2d5\animal-sniffer-annotations-1.14.jar</AuxClasspathEntry>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\MacOSXIntegration.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\Main.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\Command.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\CommandHistory.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\Flashcard.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\FlashcardObserver.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeries.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategies.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\Permutation.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\persistence\Store.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardEditor.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardsEditor.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\LearnDialog.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\se\flashcards\ui\Utilities.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\st\constraints\NotNull.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\st\constraints\Null.java</SrcDir>
-    <SrcDir>C:\Users\morit\GitHub\se\exercises\9\flashcards\src\main\java\de\tud\cs\util\Arrays.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\MacOSXIntegration.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\Main.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\Command.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\CommandHistory.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\Flashcard.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\FlashcardObserver.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeries.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategies.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategy.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\Permutation.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\persistence\Store.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardEditor.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardsEditor.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\ui\LearnDialog.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\se\flashcards\ui\Utilities.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\st\constraints\NotNull.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\st\constraints\Null.java</SrcDir>
+    <SrcDir>C:\Users\morit\GitHub\se_uebung9\src\main\java\de\tud\cs\util\Arrays.java</SrcDir>
   </Project>
   <Errors errors="0" missingClasses="0"></Errors>
-  <FindBugsSummary timestamp="Sun, 20 Jan 2019 11:29:43 +0100" total_classes="61" referenced_classes="423" total_bugs="0" total_size="1882" num_packages="7" java_version="10" vm_version="10+46" cpu_seconds="44.98" clock_seconds="19.12" peak_mbytes="209.06" alloc_mbytes="2030.00" gc_seconds="0.23">
+  <FindBugsSummary timestamp="Mon, 21 Jan 2019 12:14:18 +0100" total_classes="61" referenced_classes="423" total_bugs="0" total_size="1882" num_packages="7" java_version="10" vm_version="10+46" cpu_seconds="59.75" clock_seconds="26.40" peak_mbytes="208.21" alloc_mbytes="2030.00" gc_seconds="0.26">
     <PackageStats package="de.tud.cs.se.flashcards" total_bugs="0" total_types="2" total_size="75">
       <ClassStats class="de.tud.cs.se.flashcards.MacOSXIntegration" sourceFile="MacOSXIntegration.java" interface="false" size="38" bugs="0"/>
       <ClassStats class="de.tud.cs.se.flashcards.Main" sourceFile="Main.java" interface="false" size="37" bugs="0"/>
@@ -182,17 +182,20 @@
       <ClassStats class="de.tud.cs.util.Arrays" sourceFile="Arrays.java" interface="false" size="94" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="4712" invocations="1918" avgMicrosecondsPerInvocation="2457" maxMicrosecondsPerInvocation="372924" standardDeviationMicrosecondsPerInvocation="20462"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="2157" invocations="1911" avgMicrosecondsPerInvocation="1128" maxMicrosecondsPerInvocation="159980" standardDeviationMicrosecondsPerInvocation="7196"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="1377" invocations="423" avgMicrosecondsPerInvocation="3257" maxMicrosecondsPerInvocation="452232" standardDeviationMicrosecondsPerInvocation="23729"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1150" invocations="423" avgMicrosecondsPerInvocation="2719" maxMicrosecondsPerInvocation="152701" standardDeviationMicrosecondsPerInvocation="11617"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="827" invocations="1108" avgMicrosecondsPerInvocation="747" maxMicrosecondsPerInvocation="132503" standardDeviationMicrosecondsPerInvocation="5597"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="643" invocations="1855" avgMicrosecondsPerInvocation="346" maxMicrosecondsPerInvocation="130622" standardDeviationMicrosecondsPerInvocation="4599"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="495" invocations="423" avgMicrosecondsPerInvocation="1171" maxMicrosecondsPerInvocation="223285" standardDeviationMicrosecondsPerInvocation="12436"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="381" invocations="423" avgMicrosecondsPerInvocation="901" maxMicrosecondsPerInvocation="180867" standardDeviationMicrosecondsPerInvocation="9054"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="338" invocations="511" avgMicrosecondsPerInvocation="663" maxMicrosecondsPerInvocation="124987" standardDeviationMicrosecondsPerInvocation="6262"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="325" invocations="423" avgMicrosecondsPerInvocation="768" maxMicrosecondsPerInvocation="178678" standardDeviationMicrosecondsPerInvocation="8900"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="253" invocations="423" avgMicrosecondsPerInvocation="598" maxMicrosecondsPerInvocation="64886" standardDeviationMicrosecondsPerInvocation="3794"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="6201" invocations="1918" avgMicrosecondsPerInvocation="3233" maxMicrosecondsPerInvocation="527834" standardDeviationMicrosecondsPerInvocation="23115"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="2735" invocations="1911" avgMicrosecondsPerInvocation="1431" maxMicrosecondsPerInvocation="195284" standardDeviationMicrosecondsPerInvocation="8853"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="1583" invocations="423" avgMicrosecondsPerInvocation="3743" maxMicrosecondsPerInvocation="270820" standardDeviationMicrosecondsPerInvocation="20492"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="1478" invocations="1108" avgMicrosecondsPerInvocation="1334" maxMicrosecondsPerInvocation="340234" standardDeviationMicrosecondsPerInvocation="12748"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1347" invocations="423" avgMicrosecondsPerInvocation="3186" maxMicrosecondsPerInvocation="188133" standardDeviationMicrosecondsPerInvocation="14701"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="794" invocations="423" avgMicrosecondsPerInvocation="1877" maxMicrosecondsPerInvocation="245114" standardDeviationMicrosecondsPerInvocation="16615"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="617" invocations="1855" avgMicrosecondsPerInvocation="332" maxMicrosecondsPerInvocation="196659" standardDeviationMicrosecondsPerInvocation="5264"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="539" invocations="423" avgMicrosecondsPerInvocation="1274" maxMicrosecondsPerInvocation="252631" standardDeviationMicrosecondsPerInvocation="14013"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="527" invocations="320" avgMicrosecondsPerInvocation="1647" maxMicrosecondsPerInvocation="40147" standardDeviationMicrosecondsPerInvocation="4196"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="526" invocations="329" avgMicrosecondsPerInvocation="1601" maxMicrosecondsPerInvocation="53789" standardDeviationMicrosecondsPerInvocation="4344"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="511" invocations="346" avgMicrosecondsPerInvocation="1477" maxMicrosecondsPerInvocation="33268" standardDeviationMicrosecondsPerInvocation="3519"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="372" invocations="324" avgMicrosecondsPerInvocation="1149" maxMicrosecondsPerInvocation="49490" standardDeviationMicrosecondsPerInvocation="3608"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="351" invocations="342" avgMicrosecondsPerInvocation="1027" maxMicrosecondsPerInvocation="23620" standardDeviationMicrosecondsPerInvocation="2318"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="345" invocations="423" avgMicrosecondsPerInvocation="816" maxMicrosecondsPerInvocation="194219" standardDeviationMicrosecondsPerInvocation="9470"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>

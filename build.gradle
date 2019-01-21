@@ -19,7 +19,7 @@ plugins {
 }
 
 // Define the main class for the application
-mainClassName = 'App'
+mainClassName = 'de.tud.cs.se.flashcards.Main'
 
 dependencies {
     // This dependency is found on compile classpath of this component and consumers.
